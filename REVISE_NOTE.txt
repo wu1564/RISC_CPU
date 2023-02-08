@@ -1,0 +1,3 @@
+1. Data Memory canceled the readMem signal
+2. seperate the reset_n signal and create the cpu_reset_n signals to reset the register on the cpu
+3. create the CMP command
